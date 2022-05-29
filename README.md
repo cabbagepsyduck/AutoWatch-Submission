@@ -13,16 +13,15 @@
 
 1. Clone this repo.
 
-2. Open command prompt in the following folder "React_Frontend/agri-ai"
+2. Open command prompt in the  folder "React_Frontend/autowatch"
 
 3. Install all the npm packages
 
-  
+
+
 
 ```
-
 npm install
-
 ```
 
   
@@ -32,9 +31,7 @@ npm install
   
 
 ```
-
 npm start
-
 ```
 
   
